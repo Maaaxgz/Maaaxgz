@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [gonzalezbahena1810.wixsite.com/portafolio-de-max](gonzalezbahena1810.wixsite.com/portafolio-de-max)
 
-- 📫 How to reach me **josemgzlez@outlook.com**
+- 📫 How to reach me **jmaxgz@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/josemgzlez/](www.linkedin.com/in/josemgzlez/)
 
