@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Gonzalez</h1>
 <h3 align="center">A computer engineering student from Mexico</h3>
 
-- 🌱 I’m currently learning **back-end with Spring Boot**
+- 🌱 I’m currently learning **SAP ABAP Object Orientation**
 
 - 👨‍💻 All of my projects are available at [gonzalezbahena1810.wixsite.com/portafolio-de-max](gonzalezbahena1810.wixsite.com/portafolio-de-max)
 
