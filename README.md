@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Gonzalez</h1>
 <h3 align="center">A computer engineering student from Mexico</h3>
 
-- 🌱 I’m currently: Taking a Full Stack Web Development Roadmap
+- 🌱 I’m currently: Learning about Quantum Computing
 
 - 👨‍💻 All of my projects are available at [gonzalezbahena1810.wixsite.com/portafolio-de-max](gonzalezbahena1810.wixsite.com/portafolio-de-max)
 
-- 📫 How to reach me **jmaxgz@gmail.com**
+- 📫 How to reach me **jmaxgzb@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/josemgzlez/](www.linkedin.com/in/josemgzlez/)
 
