@@ -6,8 +6,8 @@
 <p><img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJpaW5xcGQwaDRpbmVmOWYwbWl5Zm9yM2VhMzJ5N2tqdWJtbnk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="200">
   
 ```c++
-Max() { 
-  int const location = {"Mexico"}; 
+int Max() { 
+  const location = {"Mexico"}; 
   language = ["Spanish", "English"]; 
   code = ["Python", "C", "C++", "SQL", "Java", "Javascript"]; 
   background = {"Solutions and Support"}; 
