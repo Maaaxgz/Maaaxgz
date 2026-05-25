@@ -7,7 +7,7 @@
   
 ```c++
 Max() { 
-  const location = {"Mexico"}; 
+  int const location = {"Mexico"}; 
   language = ["Spanish", "English"]; 
   code = ["Python", "C", "C++", "SQL", "Java", "Javascript"]; 
   background = {"Solutions and Support"}; 
